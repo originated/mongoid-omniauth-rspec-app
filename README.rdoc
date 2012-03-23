@@ -1,3 +1,21 @@
+
+== About this App
+
+A basic skeleton app which incorporates Rails 3.2, Mongoid, Omniauth, Sass, Rspec and cucumber.
+
+To have this working with FB you will need to edit the omniauth.rb file with your FB
+app credentials.  Omniauth can easily work with other services known was "providers".  By
+adding additional Provider details into the omniauth.rb this app can easily implement
+other authorizations.
+
+Enjoy
+
+
+
+
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
